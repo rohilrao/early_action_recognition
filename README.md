@@ -1,7 +1,4 @@
-<p align="center">
-<a href="https://layer6.ai/"><img src="https://github.com/layer6ai-labs/DropoutNet/blob/master/logs/logobox.jpg" width="180"></a>
-</p> 
-
+<p>This repo is inspired from: </p>
 <div align="center">
 <h1>
 <b>
