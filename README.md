@@ -1,4 +1,4 @@
-<p>This repo is inspired from: </p>
+<p>This repo uses Xpool for early action recognition: </p>
 <div align="center">
 <h1>
 <b>
